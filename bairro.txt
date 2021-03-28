@@ -1,3 +1,8 @@
-Morumbi
-Moema
-Sumarezinho
+Morumbi 1.0
+Moema 1.0
+Sumarezinho 1.0
+Morumbi 2.0
+Moema 2.0
+Sumarezinho 2.0
+Morumbi 3.0
+Moema 3.0
