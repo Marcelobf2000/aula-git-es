@@ -1,5 +1,10 @@
-Brasil
-Canadá
-Alemanha
-França
-Nova Zelandia
+Brasil 1.0
+Canadá 1.0
+Alemanha 1.0
+França 1.0
+Nova Zelandia 1.0
+Brasil 2.0
+Canadá 2.0
+Alemanha 2.0
+França 2.0
+Nova Zelandia 2.0
