@@ -1,4 +1,9 @@
-Ribeirão Preto
-São Paulo
-Santos
-Belo Horizonte
+Ribeirão Preto 1.0
+São Paulo 1.0
+Santos 1.0
+Belo Horizonte 1.0
+Ribeirão Preto 2.0
+São Paulo 2.0
+Santos 2.0
+Belo Horizonte 2.0
+Ribeirão Preto 3.0
