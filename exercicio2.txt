@@ -3,3 +3,5 @@ Arquivo criado remotamente
 Texto Modificado!
  
 Hoje o dia está bonito e eu estou feliz =)
+
+b2
